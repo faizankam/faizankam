@@ -1,19 +1,19 @@
-# <h1 align="center">🚀 Welcome! I'm FaizanDeveloper 🌟</h1>
+<h1 align="center">🚀 Welcome! I'm FaizanDeveloper 🌟</h1>
 <h3 align="center">A Passionate Web Developer from Pakistan 🇵🇰</h3>
+<p align="center">
+  <img alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 
 - 🌱 Currently Exploring the World of **Programming Languages** 🌐
-
 - 👨‍💻 Check out my **Awesome Projects** at [https://faizandeveloper.my.to/](https://faizandeveloper.my.to/) 📁
-
 - 💬 Ask me anything about **coding** and I'd be thrilled to help! 💡
-
 - 📫 You can reach me on Instagram at [https://www.instagram.com/pakistani.programmers/](https://www.instagram.com/pakistani.programmers/) 📱
 
 <h3 align="left">Connect with me: 🤝</h3>
 <p align="left">
-  <a href="https://fb.com/faizan8208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan8208" height="30" width="40" /></a>
-  <a href="https://instagram.com/pakistani.programmers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pakistani.programmers/" height="30" width="40" /></a>
-  <a href="https://discord.gg/https://discord.gg/https://discord.com/invite/hBhgqj4Sqp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.com/invite/hBhgqj4Sqp" height="30" width="40" /></a>
+  <a href="https://fb.com/faizan8208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="faizan8208" height="30" width="30" /></a>
+  <a href="https://instagram.com/pakistani.programmers/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pakistani.programmers/" height="30" width="30" /></a>
+  <a href="https://discord.gg/https://discord.gg/https://discord.com/invite/hBhgqj4Sqp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/https://discord.com/invite/hBhgqj4Sqp" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools I use: 🛠️</h3>
