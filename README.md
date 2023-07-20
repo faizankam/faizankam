@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Faizan Kamboh]!
 
 ## 💫 About Me:
 🔭 I’m currently working on Web Development<br>
