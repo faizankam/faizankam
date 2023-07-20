@@ -1,6 +1,6 @@
 
 <div style="text-align:center">
-    ![logo](https://github.com/faizankam/faizankam/blob/main/photoshop.PNG)
+    ![logo](photoshop.PNG)
 </div>
 
 <h1 align="center">🚀 Welcome! I'm FaizanDeveloper 🌟</h1>
