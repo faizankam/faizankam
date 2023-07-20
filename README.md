@@ -1,7 +1,8 @@
 
-<div style="text-align:center">
-    ![logo](photoshop.PNG)
-</div>
+<p align="center">
+  <img src="https://github.com/faizankam/faizankam/blob/main/photoshop.PNG" alt="logo">
+</p>
+
 
 <h1 align="center">🚀 Welcome! I'm FaizanDeveloper 🌟</h1>
 <h3 align="center">A Passionate Web Developer from Pakistan 🇵🇰</h3>
