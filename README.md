@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/faizankam/faizankam/blob/main/photoshop.PNG" alt="logo">
+  <img src="https://github.com/faizankam/faizankam/blob/main/Gold%20Luxury%20Business%20Logo%20(1).gif" alt="logo">
 </p>
 
 
