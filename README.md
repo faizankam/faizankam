@@ -11,7 +11,7 @@
 </p>
 
 - 🌱 Currently Exploring the World of **Programming Languages** 🌐
-- 👨‍💻 Check out my **Awesome Projects** at [https://faizandeveloper.my.to/](https://faizankam.github.io/) 📁
+- 👨‍💻 Check out my **Awesome Projects** at [https://faizankam.github.io/](https://faizankam.github.io/) 📁
 - 💬 Ask me anything about **coding** and I'd be thrilled to help! 💡
 - 📫 You can reach me on Instagram at [https://www.instagram.com/pakistani.programmers/](https://www.instagram.com/pakistani.programmers/) 📱
 
