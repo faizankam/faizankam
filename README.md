@@ -13,7 +13,7 @@
 - 🌱 Currently Exploring the World of **Programming Languages** 🌐
 - 👨‍💻 Check out my **Awesome Projects** at [https://faizankam.github.io/](https://faizankam.github.io/) 📁
 - 💬 Ask me anything about **coding** and I'd be thrilled to help! 💡
-- 📫 You can reach me on Instagram at [https://www.instagram.com/pakistani.programmers/](https://www.instagram.com/pakistani.programmers/) 📱
+- 📫 You can reach me on Instagram at [ Instagram ](https://www.instagram.com/faizan.kambo_h/) 📱
 
 <h3 align="left">Connect with me: 🤝</h3>
 <p align="left">
